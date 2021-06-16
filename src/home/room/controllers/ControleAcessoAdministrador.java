@@ -10,7 +10,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
  
 public class ControleAcessoAdministrador implements ActionListener{
-
+    
     private final TelaAcessoAdministrador tAcessoAdministrador;
     private final TelaContUsuarios tContUsuario;
     private final TelaCadUsuario tCadUsuario;
